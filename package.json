@@ -5,7 +5,7 @@
     "start": "ts-node src"
   },
   "dependencies": {
-    "axios": "^0.18.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@types/node": "^14.0.24",
