@@ -1,4 +1,6 @@
-# GT Schedule Crawler
+# GT Scheduler is now maintained by [gt-scheduler](https://github.com/gt-scheduler).
+
+## GT Schedule Crawler
 
 A periodic web crawler to feed course data into [GT Scheduler](https://jasonpark.me/gt-scheduler).
 
